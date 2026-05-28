@@ -1,0 +1,72 @@
+{
+    "rugbyleague_nrl": {
+        "74d3f3b26e4533b8f3a872b12df612c5": {
+            "game": "Melbourne Storm vs Parramatta Eels",
+            "time": "05 Mar, 09:00",
+            "tip": "Melbourne Storm",
+            "odds": "H:1.46 | A:2.73"
+        },
+        "36bb65e60be585c87da6463305d02143": {
+            "game": "New Zealand Warriors vs Sydney Roosters",
+            "time": "06 Mar, 07:00",
+            "tip": "Sydney Roosters",
+            "odds": "H:2.54 | A:1.52"
+        },
+        "db5bfdb3dc8ce4fe8a88d34fa55e1b47": {
+            "game": "Brisbane Broncos vs Penrith Panthers",
+            "time": "06 Mar, 09:00",
+            "tip": "Brisbane Broncos",
+            "odds": "H:1.70 | A:2.15"
+        },
+        "a348ad86537f7f257b4e702cd97e49f5": {
+            "game": "Cronulla Sutherland Sharks vs Gold Coast Titans",
+            "time": "07 Mar, 06:30",
+            "tip": "Cronulla Sutherland Sharks",
+            "odds": "H:1.35 | A:3.21"
+        },
+        "d67e13e8b87d45adf6320a086e98ce48": {
+            "game": "Manly Warringah Sea Eagles vs Canberra Raiders",
+            "time": "07 Mar, 08:35",
+            "tip": "Canberra Raiders",
+            "odds": "H:1.92 | A:1.90"
+        },
+        "fbe54902691a872a8a39dd0b52a8bdbe": {
+            "game": "Dolphins vs South Sydney Rabbitohs",
+            "time": "08 Mar, 05:05",
+            "tip": "Dolphins",
+            "odds": "H:1.81 | A:2.01"
+        }
+    },
+    "aussierules_afl": {
+        "8fee12c4bd7c35137e148aca80ea659a": {
+            "game": "Sydney Swans vs Carlton Blues",
+            "time": "05 Mar, 08:30",
+            "tip": "Sydney Swans",
+            "odds": "H:1.33 | A:3.40"
+        },
+        "fc57cb223469e00714da6bcca7baa207": {
+            "game": "Gold Coast Suns vs Geelong Cats",
+            "time": "06 Mar, 09:05",
+            "tip": "Gold Coast Suns",
+            "odds": "H:1.67 | A:2.19"
+        },
+        "ee36229873fb9d7f31db3cb677ebce82": {
+            "game": "Greater Western Sydney Giants vs Hawthorn Hawks",
+            "time": "07 Mar, 05:15",
+            "tip": "Hawthorn Hawks",
+            "odds": "H:2.46 | A:1.55"
+        },
+        "e8168c3055e0d2f3067bb47a261f9afe": {
+            "game": "Brisbane Lions vs Western Bulldogs",
+            "time": "07 Mar, 08:35",
+            "tip": "Brisbane Lions",
+            "odds": "H:1.43 | A:2.83"
+        },
+        "32938c3ed956b5d910a6145275ddd22d": {
+            "game": "St Kilda Saints vs Collingwood Magpies",
+            "time": "08 Mar, 08:20",
+            "tip": "Collingwood Magpies",
+            "odds": "H:1.99 | A:1.83"
+        }
+    }
+}

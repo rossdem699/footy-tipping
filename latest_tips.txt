@@ -1,0 +1,51 @@
+
+FOOTY TIPPING BOT REPORT - 2026-03-01 20:31
+==================================================
+
+--- NRL ---
+05 Mar, 09:00: Melbourne Storm vs Parramatta Eels
+  > Recommended Tip: Melbourne Storm
+  > Odds: H:1.46 | A:2.73
+------------------------------
+06 Mar, 07:00: New Zealand Warriors vs Sydney Roosters
+  > Recommended Tip: Sydney Roosters
+  > Odds: H:2.54 | A:1.52
+------------------------------
+06 Mar, 09:00: Brisbane Broncos vs Penrith Panthers
+  > Recommended Tip: Brisbane Broncos
+  > Odds: H:1.70 | A:2.15
+------------------------------
+07 Mar, 06:30: Cronulla Sutherland Sharks vs Gold Coast Titans
+  > Recommended Tip: Cronulla Sutherland Sharks
+  > Odds: H:1.35 | A:3.21
+------------------------------
+07 Mar, 08:35: Manly Warringah Sea Eagles vs Canberra Raiders
+  > Recommended Tip: Canberra Raiders
+  > Odds: H:1.92 | A:1.90
+------------------------------
+08 Mar, 05:05: Dolphins vs South Sydney Rabbitohs
+  > Recommended Tip: Dolphins
+  > Odds: H:1.81 | A:2.01
+------------------------------
+
+--- AFL ---
+05 Mar, 08:30: Sydney Swans vs Carlton Blues
+  > Recommended Tip: Sydney Swans
+  > Odds: H:1.33 | A:3.40
+------------------------------
+06 Mar, 09:05: Gold Coast Suns vs Geelong Cats
+  > Recommended Tip: Gold Coast Suns
+  > Odds: H:1.67 | A:2.19
+------------------------------
+07 Mar, 05:15: Greater Western Sydney Giants vs Hawthorn Hawks
+  > Recommended Tip: Hawthorn Hawks
+  > Odds: H:2.46 | A:1.55
+------------------------------
+07 Mar, 08:35: Brisbane Lions vs Western Bulldogs
+  > Recommended Tip: Brisbane Lions
+  > Odds: H:1.43 | A:2.83
+------------------------------
+08 Mar, 08:20: St Kilda Saints vs Collingwood Magpies
+  > Recommended Tip: Collingwood Magpies
+  > Odds: H:1.99 | A:1.83
+------------------------------
