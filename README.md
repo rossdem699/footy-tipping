@@ -7,16 +7,23 @@ An automated tipping analysis tool that fetches odds, reviews injury updates, an
 ## ⚙️ Installation & How to Run
 
 ### Local Setup
+*   **Recommended Python Version:** Python 3.12
+*   **How to ensure the correct Python version is used:** By using a local **Virtual Environment** (`venv`). This locks execution to the virtual environment's dedicated Python interpreter and isolates project dependencies.
+
 1. **Navigate to the project folder:**
    ```bash
    cd /home/ross/projects/footy_tipping
    ```
 2. **Setup the Virtual Environment:**
+   Initialize the environment using your system Python 3.12:
    ```bash
    python3 -m venv venv
+   ```
+3. **Activate the Environment:**
+   ```bash
    source venv/bin/activate
    ```
-3. **Install Dependencies:**
+4. **Install Dependencies (using the requirements file):**
    ```bash
    pip install -r requirements.txt
    ```
