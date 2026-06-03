@@ -1,8 +1,21 @@
 # Footy Tipping Assistant (AFL & NRL)
 
+[![Latest Release](https://img.shields.io/github/v/release/rossdem699/footy-tipping?label=latest%20update)](https://github.com/rossdem699/footy-tipping/releases)
+
 An automated tipping analysis tool that fetches odds, reviews injury updates, and recommends weekly tipping picks for AFL and NRL games.
 
 ---
+
+## 🆕 What's New in the Latest Update
+
+*   **Confidence Percentage (Implied Probability):** Tips now display a confidence percentage calculated and normalized from decimal bookmaker odds (e.g., `Geelong (59%)`) instead of raw decimal values, providing clearer insight into tipping strength.
+*   **Shortened Team Names:** Integrated team name shortening (e.g., `Sea Eagles` vs `Rabbitohs` instead of full names) to ensure terminal tables stay narrow and do not break or wrap lines.
+*   **Animated CLI Spinner Loader (`run_with_spinner.sh`):** A custom launcher wrapper featuring a bouncing rugby ball loading animation (`🏉`) to provide visual feedback during the 2-3 minute analysis process.
+*   **Automatic Markdown Table Alignment (`align_markdown.py`):** Added a python script that parses and aligns markdown tables output by the tipping agent, ensuring perfectly printed columns in the terminal.
+*   **Updated Procedures:** Aligned [GEMINI.md](file:///home/ross/projects/footy_tipping/GEMINI.md) guidelines with these new output standards.
+
+---
+
 
 ## ⚙️ Installation & How to Run
 
@@ -45,3 +58,5 @@ An automated tipping analysis tool that fetches odds, reviews injury updates, an
 *   `src/`: Python source scripts for automation and Playwright/Ollama LLM integrations.
 *   `tip_history.json`: Historical log of tip performance, odds tracker, and round results.
 *   `setup_desktop.sh`: Utility script that creates and updates the desktop shortcut.
+*   `run_with_spinner.sh`: Bash launcher wrapper that runs the agent with a bouncing rugby ball loading animation.
+*   `align_markdown.py`: Utility python script to parse and align table column widths in the terminal.

@@ -1,51 +1,35 @@
 
-FOOTY TIPPING BOT REPORT - 2026-03-01 20:31
-==================================================
+FOOTY TIPPING BOT REPORT - 2026-06-03 16:08
 
 --- NRL ---
-05 Mar, 09:00: Melbourne Storm vs Parramatta Eels
-  > Recommended Tip: Melbourne Storm
-  > Odds: H:1.46 | A:2.73
-------------------------------
-06 Mar, 07:00: New Zealand Warriors vs Sydney Roosters
-  > Recommended Tip: Sydney Roosters
-  > Odds: H:2.54 | A:1.52
-------------------------------
-06 Mar, 09:00: Brisbane Broncos vs Penrith Panthers
-  > Recommended Tip: Brisbane Broncos
-  > Odds: H:1.70 | A:2.15
-------------------------------
-07 Mar, 06:30: Cronulla Sutherland Sharks vs Gold Coast Titans
-  > Recommended Tip: Cronulla Sutherland Sharks
-  > Odds: H:1.35 | A:3.21
-------------------------------
-07 Mar, 08:35: Manly Warringah Sea Eagles vs Canberra Raiders
-  > Recommended Tip: Canberra Raiders
-  > Odds: H:1.92 | A:1.90
-------------------------------
-08 Mar, 05:05: Dolphins vs South Sydney Rabbitohs
-  > Recommended Tip: Dolphins
-  > Odds: H:1.81 | A:2.01
-------------------------------
+==========================================================================
+| Kickoff       | Match                   | Recommended Tip | Confidence |
+| ------------- | ----------------------- | --------------- | ---------- |
+| 04 Jun, 09:50 | Sea Eagles vs Rabbitohs | Sea Eagles      | 59%        |
+| 05 Jun, 08:00 | Storm vs Knights        | Storm           | 58%        |
+| 05 Jun, 10:00 | Raiders vs Roosters     | Roosters        | 56%        |
+| 06 Jun, 07:30 | Cowboys vs Dolphins     | Dolphins        | 60%        |
+| 06 Jun, 09:35 | Broncos vs Titans       | Broncos         | 67%        |
+| 07 Jun, 04:00 | Tigers vs Panthers      | Panthers        | 78%        |
+| 07 Jun, 06:05 | Sharks vs Dragons       | Sharks          | 73%        |
+| 08 Jun, 06:05 | Bulldogs vs Eels        | Bulldogs        | 63%        |
+| 11 Jun, 09:50 | Rabbitohs vs Broncos    | Rabbitohs       | 58%        |
+| 12 Jun, 10:00 | Dolphins vs Roosters    | Dolphins        | 56%        |
+| 13 Jun, 07:35 | Warriors vs Sharks      | Warriors        | 71%        |
+| 13 Jun, 09:35 | Eels vs Raiders         | Raiders         | 58%        |
+| 14 Jun, 06:05 | Tigers vs Titans        | Tigers          | 72%        |
+==========================================================================
 
 --- AFL ---
-05 Mar, 08:30: Sydney Swans vs Carlton Blues
-  > Recommended Tip: Sydney Swans
-  > Odds: H:1.33 | A:3.40
-------------------------------
-06 Mar, 09:05: Gold Coast Suns vs Geelong Cats
-  > Recommended Tip: Gold Coast Suns
-  > Odds: H:1.67 | A:2.19
-------------------------------
-07 Mar, 05:15: Greater Western Sydney Giants vs Hawthorn Hawks
-  > Recommended Tip: Hawthorn Hawks
-  > Odds: H:2.46 | A:1.55
-------------------------------
-07 Mar, 08:35: Brisbane Lions vs Western Bulldogs
-  > Recommended Tip: Brisbane Lions
-  > Odds: H:1.43 | A:2.83
-------------------------------
-08 Mar, 08:20: St Kilda Saints vs Collingwood Magpies
-  > Recommended Tip: Collingwood Magpies
-  > Odds: H:1.99 | A:1.83
-------------------------------
+=======================================================================
+| Kickoff       | Match                | Recommended Tip | Confidence |
+| ------------- | -------------------- | --------------- | ---------- |
+| 04 Jun, 09:30 | Crows vs Cats        | Cats            | 59%        |
+| 05 Jun, 09:40 | Hawks vs Bulldogs    | Hawks           | 72%        |
+| 06 Jun, 04:15 | Kangaroos vs Dockers | Dockers         | 75%        |
+| 06 Jun, 07:15 | Suns vs Lions        | Suns            | 61%        |
+| 06 Jun, 10:15 | Eagles vs Power      | Power           | 58%        |
+| 07 Jun, 05:15 | Swans vs Saints      | Swans           | 79%        |
+| 07 Jun, 09:20 | Bombers vs Blues     | Blues           | 81%        |
+| 08 Jun, 05:15 | Magpies vs Demons    | Demons          | 50%        |
+=======================================================================

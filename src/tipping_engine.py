@@ -69,7 +69,27 @@ def run_analysis():
             avg_home = sum(odds_pool[home]) / len(odds_pool[home]) if odds_pool[home] else 0
             avg_away = sum(odds_pool[away]) / len(odds_pool[away]) if odds_pool[away] else 0
             
-            current_tip = home if (avg_home > 0 and (avg_away == 0 or avg_home < avg_away)) else away
+            # Calculate implied probabilities and confidence percentage
+            p_home = 1.0 / avg_home if avg_home > 0 else 0
+            p_away = 1.0 / avg_away if avg_away > 0 else 0
+            p_sum = p_home + p_away
+            
+            if p_sum > 0:
+                prob_home = p_home / p_sum
+                prob_away = p_away / p_sum
+            else:
+                prob_home = 0.5
+                prob_away = 0.5
+                
+            if avg_home > 0 and (avg_away == 0 or avg_home < avg_away):
+                current_tip = home
+                confidence_pct = round(prob_home * 100)
+            elif avg_away > 0:
+                current_tip = away
+                confidence_pct = round(prob_away * 100)
+            else:
+                current_tip = "Unknown"
+                confidence_pct = 50
             
             # Check for shifts
             old_game = history.get(sport_key, {}).get(game_id)
@@ -91,7 +111,8 @@ def run_analysis():
                 "game": f"{home} vs {away}",
                 "time": datetime.fromisoformat(game['commence_time'].replace('Z', '+00:00')).strftime("%d %b, %H:%M"),
                 "tip": current_tip,
-                "odds": f"H:{avg_home:.2f} | A:{avg_away:.2f}"
+                "odds": f"H:{avg_home:.2f} | A:{avg_away:.2f}",
+                "confidence": f"{confidence_pct}%"
             }
 
     save_history(new_data)

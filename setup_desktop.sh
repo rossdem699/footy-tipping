@@ -10,7 +10,7 @@ cat <<EOF > "$YOLO_FILE"
 Version=1.0
 Name=Footy YOLO
 Comment=Get Footy Tips via Antigravity CLI (Headless)
-Exec=bash -c "/home/ross/.local/bin/agy -p 'Get footy tips for the next round following the procedure in GEMINI.md. Do not use python; use your research tools to fetch live odds and news. Produce narrow markdown tables with a separate reasoning list below them.' --dangerously-skip-permissions && read -p 'Tips generated. Press enter to close...' "
+Exec=bash -c "/home/ross/projects/footy_tipping/run_with_spinner.sh && read -p 'Press enter to close...' "
 Path=/home/ross/projects/footy_tipping
 Icon=football
 Terminal=true
